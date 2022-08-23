@@ -1,15 +1,5 @@
 import data
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-# TODO Print report, water, coffee, milk, money
-# TODO Coins 1,5,10,25
-# TODO Process coins
-# TODO Check the transaction
-# TODO Make a coffee
-# TODO Refer to .pdf file downloaded. To be found in GoogleChrome PythonTabGroup
-
 
 profit = 0
 water = data.resources["water"]
